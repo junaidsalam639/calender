@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+   background-color: #0a676c;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.calender{
+    background: linear-gradient(135deg, aquamarine , aqua );
+    padding: 40px;
+    border-radius: 15px;
+}
+.calender h1{
+    margin: 20px;
+    color: #0a676c;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-shadow: 3px 8px 10px #0a676c;
+}
+
+.class{
+    font-size: 50px;
+    color: aqua;
+    text-shadow: 3px 0px 5px aquamarine;
+    text-decoration: underline;
+}
+
+.class1{
+    text-decoration: underline;
+}
+
+
+
+
